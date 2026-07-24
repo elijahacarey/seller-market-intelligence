@@ -1,4 +1,4 @@
-# Etsy Market Intelligence
+# Seller-Market-Intelligence
 
 A local application that exports publicly available Etsy marketplace data using the Etsy Open API.
 
